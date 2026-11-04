@@ -7,7 +7,7 @@ I kept hitting a paywall.
 Every research tool I opened wanted a key, a login, or money at some point. So I built the version I wanted to use. This one is free, and it stays free.
 
 <p align="center">
-  <img src="demo.gif" width="900" alt="People Research demo: ask a question, search everywhere, get a brief with evidence and both sides">
+  <img src="intro.gif" width="900" alt="People Research intro: free, no login, no keys, comments, transcripts, videos, slides, versus Last 30 Days, Agent Reach, Sherlock, Maigret, and Social Analyzer">
 </p>
 
 ## Start in one step
@@ -47,6 +47,8 @@ You get a brief you can actually read. Evidence, with links, in plain language, 
 | Free forever, no keys, no login | ✅ | ❌ | ✅* | ✅ |
 
 \* Agent Reach costs no money, but it costs you logins and cookies. See below. Brutally honest version, tool by tool:
+
+Star counts in the intro animation are approximate, from Nov 2026.
 
 ### Last 30 Days
 
@@ -121,7 +123,7 @@ A few comment sections, like some on Instagram and Facebook, need your browser l
 - `SKILL.md`: the full skill your AI follows
 - `scripts/`: the tools it uses, all free
 - `SETUP_PROMPT.md`: the one prompt to copy
-- `demo.gif`: the demo above
+- `intro.gif`: the intro animation above
 
 ## Find this repo by searching
 
