@@ -7,7 +7,7 @@ I kept hitting a paywall.
 Every research tool I opened wanted a key, a login, or money at some point. So I built the version I wanted to use. This one is free, and it stays free.
 
 <p align="center">
-  <img src="intro.gif?v=2" width="900" alt="People Research intro: free, no login, no keys, comments, transcripts, videos, slides, versus Last 30 Days, Agent Reach, Sherlock, Maigret, and Social Analyzer">
+  <img src="intro.gif?v=3" width="900" alt="People Research intro: free, no login, no keys, comments, transcripts, videos, slides, versus Last 30 Days, Agent Reach, Sherlock, Maigret, and Social Analyzer">
 </p>
 
 ## Start in one step
